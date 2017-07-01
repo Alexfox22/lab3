@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\nika-\documents\visual studio 2015\projects\хэш_таблицы_боль\хэш_таблицы_боль\bst.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\nika-\documents\visual studio 2015\projects\хэш_таблицы_боль\хэш_таблицы_боль\bst.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\nika-\documents\visual studio 2015\projects\хэш_таблицы_боль\хэш_таблицы_боль\hashtable.h(26): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nika-\documents\visual studio 2015\projects\хэш_таблицы_боль\хэш_таблицы_боль\hashtable.h(28): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Хэш_таблицы_боль.vcxproj -> C:\Users\nika-\Documents\Visual Studio 2015\Projects\Хэш_таблицы_боль\Debug\Хэш_таблицы_боль.exe
